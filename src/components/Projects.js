@@ -28,40 +28,40 @@ export default function Skills() {
 
   const Projects = [
     {
+      name: "Smart Box",
+      desc: "React app that uses AI to detect faces and apparels in an image",
+      tech: "React, Redux, Redux-thunk, Material UI, Clarifai",
+      link: "https://abdullahgumi.github.io/smart-box/",
+    },
+    {
       name: "NextTube",
       desc: "Fullstack youtube clone built with nextjs",
-      tech: "Nextjs, TypeScript, tailwindcss, mongoDB",
+      tech: "Nextjs, TypeScript, Tailwindcss, MongoDB",
       link: "https://next-tube-abdullahgumi.vercel.app/",
     },
     {
       name: "Aperture",
       desc: "DeFi app landing page",
-      tech: "React, material UI, Styled-components",
+      tech: "React, Material UI, Styled-components",
       link: "https://aperture-ecru.vercel.app/",
     },
     {
       name: "Fitness",
       desc: "React fitness website",
-      tech: "React, material UI, Styled-components, google-maps",
+      tech: "React, Material UI, Styled-components, Google-maps",
       link: "https://material-fitness.vercel.app",
     },
     {
       name: "Profiles",
       desc: "Mobile only React app made with tailwind",
-      tech: "React, redux-toolkit, react-router-dom, tailwindcss, localStorage",
+      tech: "React, redux-toolkit, react-router-dom, Tailwindcss, LocalStorage",
       link: "https://profile-screens.vercel.app/profiles/?tab=user",
-    },
-    {
-      name: "Smart Box",
-      desc: "React app that uses AI to detect faces and apparels in an image",
-      tech: "React, Redux, Redux-thunk, clarifai",
-      link: "https://abdullahgumi.github.io/smart-box/",
     },
 
     {
       name: "Covid Tracker",
       desc: "Interactive map and charts that displays covid stats",
-      tech: "React, Chart.js, react-simple-maps, material UI, Styled-components",
+      tech: "React, Chart.js, React-simple-maps, Material UI, Styled-components",
       link: "https://covid-tracker-gilt-seven.vercel.app/",
     },
   ];
