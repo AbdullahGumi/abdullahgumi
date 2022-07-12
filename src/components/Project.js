@@ -81,11 +81,14 @@ const Project = ({ item: { name, desc, tech, link }, i }) => {
         <Typography sx={{ fontWeight: "bold", fontSize: "26px" }}>
           {name}
         </Typography>
-        <Typography>{desc}</Typography>
+        <Typography sx={{ fontSize: "12px" }}>{desc}</Typography>
         <Typography sx={{ fontWeight: 600, mt: "1rem" }}>
           Technologies used:
         </Typography>
-        <Typography variant="overline" sx={{ textTransform: "none" }}>
+        <Typography
+          variant="overline"
+          sx={{ textTransform: "none", fontSize: "10px" }}
+        >
           {tech}
         </Typography>
       </Box>

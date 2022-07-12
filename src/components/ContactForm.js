@@ -34,7 +34,7 @@ export const ContactForm = () => {
           fontSize: 20,
           fontWeight: 600,
           fontFamily: "Text Me One",
-          mt: { md: "0rem", xs: "2rem" },
+          mt: "2rem",
         }}
       >
         Contact me with ease, I have already got my gmail app opened :)
