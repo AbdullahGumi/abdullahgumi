@@ -58,6 +58,7 @@ const Project = ({ item: { name, desc, tech, link }, i }) => {
         display: "flex",
         justifyContent: "center",
         alignItems: "center",
+        mt: "1rem",
         mb: { md: "0rem", xs: "1rem" },
       }}
     >

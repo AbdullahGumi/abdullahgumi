@@ -75,6 +75,31 @@ export default function Skills() {
       tech: "React, redux-toolkit, react-router-dom, Tailwindcss, LocalStorage",
       link: "https://profile-screens.vercel.app/profiles/?tab=user",
     },
+    // react native
+    {
+      name: "Video Player",
+      desc: "Local videos player with react native",
+      tech: "react-native, simple-thumbnail, react-native-video, ffmpeg",
+      link: "https://github.com/AbdullahGumi/Player_RN",
+    },
+    {
+      name: "Uber2.0",
+      desc: "Uber clone with expo",
+      tech: "react-native, react-native-maps, expo, expo-location",
+      link: "https://github.com/AbdullahGumi/Uber2.0",
+    },
+    {
+      name: "Tinder2.0",
+      desc: "Tinder clone with expo",
+      tech: "react-native, firebase, tailwind, react-native-deck-swiper",
+      link: "https://github.com/AbdullahGumi/Tinder2.0",
+    },
+    {
+      name: "Deliveroo2.0",
+      desc: "Deliveroo food delivery service with expo",
+      tech: "react-native, redux, tailwind, Sanity CMS",
+      link: "https://github.com/AbdullahGumi/Deliveroo2.0",
+    },
   ];
 
   return (
