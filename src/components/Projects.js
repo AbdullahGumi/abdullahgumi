@@ -34,6 +34,12 @@ export default function Skills() {
       link: "https://next-tube-abdullahgumi.vercel.app/",
     },
     {
+      name: "Trello 2.0",
+      desc: "Trello clone with react-dnd",
+      tech: "React, react-dnd redux, Tailwindcss",
+      link: "https://trello-theta.vercel.app/",
+    },
+    {
       name: "Medium 2.0",
       desc: "Nextjs Medium clone with ISR",
       tech: "Typescript, Sanity CMS, Tailwindcss, Nextjs, React",
