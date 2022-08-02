@@ -37,7 +37,7 @@ export default function Skills() {
       name: "Trello 2.0",
       desc: "Trello clone with react-dnd",
       tech: "React, react-dnd redux, Tailwindcss",
-      link: "https://trello-theta.vercel.app/",
+      link: "https://trellov2.herokuapp.com",
     },
     {
       name: "Medium 2.0",
