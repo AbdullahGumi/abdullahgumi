@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdullah Gumi</h1>
-<h3 align="center">A passionate react developer from Nigeria</h3>
+<h3 align="center">Dedicated React developer hailing from Nigeria</h3>
+
+Highly motivated and experienced React | React Native
+Developer with a strong work ethic focused on delivering value
+and gaining industry knowledge. Proficient in Frontend and
+Backend development utilizing technologies such as React,
+Node, and TypeScript.
+<br/>
+<br/>
 
 - 🌱 I’m currently learning **GO**
 
