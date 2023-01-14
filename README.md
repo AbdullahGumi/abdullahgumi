@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abdulgumi77@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FB59wTmcjSMWyaOM0-EEi6Y40kW6Q2w4/view?usp=sharing](https://drive.google.com/file/d/1FB59wTmcjSMWyaOM0-EEi6Y40kW6Q2w4/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1Frxis4JWLuU-TE0O7JBICvOUps17eEjg/view?usp=share_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
