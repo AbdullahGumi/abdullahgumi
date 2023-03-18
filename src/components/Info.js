@@ -65,17 +65,13 @@ export default function Info() {
               }}
             >
               <Paragraph ref={ref1} delay=".8s" view={view1}>
-                My work ethics are to provide value and gain more experience. I
-                am a React developer with 3+ years of professional development.
+                My work ethic is centered around delivering valuable work and continuously expanding my expertise.
               </Paragraph>
               <Paragraph ref={ref2} delay=".8s" view={view2}>
-                I am proficient in both front-end and backend development. I
-                have extensive knowledge of React, Node, HTML, CSS, JavaScript
-                and Typescript.
+                As a skilled React developer, I possess knowledge and experience in both front-end and backend development. I am well-versed in React, Node, HTML, CSS, JavaScript, and Typescript, and committed to delivering high-quality code that enhances the value of your product.
               </Paragraph>
               <Paragraph ref={ref3} delay=".8s" view={view3}>
-                Do you need a developer that increases your product's value?
-                then look no further!
+                Look no further if you're seeking a developer who can elevate your product to new heights.
               </Paragraph>
             </Grid>
             <Grid item order={{ md: 2, xs: 1 }} md={6} ref={ref4}>
