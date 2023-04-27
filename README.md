@@ -9,6 +9,14 @@ Node, and TypeScript.
 <br/>
 <br/>
 
+<h3 align="center">One of my Interesting Projects made for a client 🚀</h3>
+
+
+https://user-images.githubusercontent.com/52514546/235014733-9e599b6c-5dca-457b-8b64-c996908a07b7.mp4
+
+
+You can read more about it [here](https://github.com/AbdullahGumi/assets360-intro/blob/main/README.md)
+
 - 🌱 I’m currently learning **GO**
 
 - 👨‍💻 All of my projects are available at My [portfolio](https://abdullahgumi.vercel.app/)
