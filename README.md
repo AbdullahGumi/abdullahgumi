@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/52514546/235014733-9e599b6c-5dca-457b-
 
 You can read more about it [here](https://github.com/AbdullahGumi/assets360-intro/blob/main/README.md)
 
-- 🌱 I’m currently learning **GO**
+- 🌱 I’m currently playing with **GO**
 
 - 👨‍💻 All of my projects are available at My [portfolio](https://abdullahgumi.vercel.app/)
 
