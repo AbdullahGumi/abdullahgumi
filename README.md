@@ -25,7 +25,7 @@ You can read more about it [here](https://github.com/AbdullahGumi/assets360-intr
 
 - 📫 How to reach me **abdulgumi77@gmail.com**
 
-- 📄 Check out my [resume](https://drive.google.com/file/d/1VQy6Liet0Gj1o5bb6NlujpTMHMM574n3/view?usp=share_link)
+- 📄 Check out my [resume](https://drive.google.com/file/d/1isgVRHgQfFNlR0PMAkYDfZStEFx4FIFO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
