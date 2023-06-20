@@ -4,13 +4,12 @@ import "react-alice-carousel/lib/alice-carousel.css";
 import SubHeader from "./SubHeader";
 
 import Project from "./Project";
-import {
-  AZAImage,
-  Assets360Image,
-  EtijarImage,
-  Gee2Image,
-  SmartboxImage,
-} from "../assets/images";
+
+import AZAImage from "../assets/images/aza.png";
+import Assets360Image from "../assets/images/assets360.png";
+import EtijarImage from "../assets/images/etijar.png";
+import Gee2Image from "../assets/images/gee2.png";
+import SmartboxImage from "../assets/images/smartbox.png";
 
 const items = [
   <Project
