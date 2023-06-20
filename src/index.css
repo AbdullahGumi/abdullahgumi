@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Alegreya SC", serif;
+  font-family: "Homemade Apple", cursive;
+  font-family: "Rye", cursive;
+  background-color: #fffbea;
+  box-shadow: 0 0 125px #8f5922 inset;
+}
+
+.inputPlacholder::placeholder {
+  font-family: "Homemade Apple", cursive;
+}
+
+img {
+  user-drag: none;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+.app-container {
+  padding-right: 6.5%;
+  padding-left: 6.5%;
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 768px) {
+  .app-container {
+    padding-right: 0;
+    padding-left: 0;
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .app-container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .app-container {
+    width: 1170px;
+  }
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
