@@ -101,7 +101,7 @@ function Projects() {
         autoWidth
         autoPlay
         infinite
-        animationDuration={800}
+        animationDuration={3000}
         responsive={{
           0: {
             items: 1,
