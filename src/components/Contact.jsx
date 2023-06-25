@@ -85,7 +85,7 @@ function Contact() {
         According to reports, Abdulalah Gumi is consistently visiting the post
         office to check for any messages addressed to him.
       </span>
-      <div className="lg:w-[85%] w-full relative">
+      <div className="lg:w-[85%] w-full relative flex flex-col">
         <FrameThree />
         <Blob position={"bottom-[-10%] right-[50%] rotate-90 -z-30"} />
 
@@ -134,6 +134,13 @@ function Contact() {
             <Button title={"Dispatch Message"} />
           </div>
         </div>
+        <a
+          href="https://drive.google.com/file/d/1isgVRHgQfFNlR0PMAkYDfZStEFx4FIFO/view"
+          target="_blank"
+          className="sm:text-xs text-[10px] -rotate-12 ml-auto border-[2px] border-black text-center p-2 font-bold"
+        >
+          Download Resume
+        </a>
       </div>
 
       <div className="flex items-center justify-between sm:w-[50%] w-full my-20">
