@@ -11,7 +11,7 @@ function About() {
       <div className="w-full my-10 ">
         <SubHeader
           title="THE PORTFOLIO OF ABDULLAH GUMI"
-          leftText={"Vol.1 CH.1"}
+          leftText={"Vol.1 Ch.1"}
         />
       </div>
       <div className="w-full relative -rotate-[0.2deg]">
@@ -22,7 +22,7 @@ function About() {
         >
           <img src={CowImage} className="w-[15%] h-auto" />
           <span
-            className="text-center lg:text-4xl md:text-2xl sm:text-lg text-sm font-extrabold mt-auto mb-auto md:leading-normal leading-3"
+            className="text-center lg:text-4xl md:text-2xl sm:text-lg text-sm font-extrabold mt-auto mb-auto md:leading-normal leading-[1]"
             style={{
               fontFamily: "Alegreya SC",
             }}

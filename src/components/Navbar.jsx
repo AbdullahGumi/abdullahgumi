@@ -21,15 +21,15 @@ const navItems = [
 
 function Navbar() {
   return (
-    <div className="flex items-center md:justify-between justify-center mt-5 w-full px-10">
+    <div className="flex items-center sm:justify-between justify-center mt-5 w-full">
       <div className="flex flex-col items-center gap-4">
         <img
           src={PortraitImage}
-          className="w-[100px] h-auto sm: sm:w-[162px]"
+          className="w-[100px] h-auto  md:w-[150px] sm:w-[100px]"
         />
-        <span style={{ fontSize: "24px" }}>GUMI</span>
+        <span className="md:text-2xl text-lg">GUMI</span>
       </div>
-      <div className="sm:flex gap-x-14 items-center hidden mb-16 mr-10">
+      <div className="sm:flex gap-x-14 items-center hidden mb-16">
         {navItems.map((item) => (
           <Link
             key={item.id}
@@ -38,10 +38,9 @@ function Navbar() {
             style={{ cursor: "pointer" }}
           >
             <span
+              className="md:text-lg text-base md:font-extrabold font-bold"
               style={{
                 fontFamily: "Alegreya SC",
-                fontSize: "18px",
-                fontWeight: "800",
               }}
             >
               {item.title}

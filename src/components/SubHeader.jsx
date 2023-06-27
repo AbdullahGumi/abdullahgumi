@@ -6,7 +6,7 @@ function SubHeader({ title, leftText }) {
       <div className="w-full border-black border-b-[.5px]" />
       <div className="w-full border-black border-b-[2px] mt-0.5" />
       <div className="flex items-center">
-        <span className="flex items-center justify-center w-[15%] text-center">
+        <span className="flex items-center justify-center w-[15%] text-center sm:text-base text-xs">
           {leftText}
         </span>
         <span
@@ -15,7 +15,7 @@ function SubHeader({ title, leftText }) {
         >
           {title}
         </span>
-        <span className="flex items-center justify-center w-[15%] text-center">
+        <span className="flex items-center justify-center w-[15%] text-center sm:text-base text-xs">
           Date: 1876
         </span>
       </div>

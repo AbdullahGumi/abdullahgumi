@@ -8,7 +8,7 @@ function Skills() {
   return (
     <div className="relative w-full flex flex-col items-center">
       <div className="w-full my-10">
-        <SubHeader title="Tales of a legend" leftText={"Vol.1 CH.2"} />
+        <SubHeader title="Tales of a legend" leftText={"Vol.1 Ch.2"} />
       </div>
       <h1 className="sm:text-9xl text-8xl mb-10 -rotate-3" id="skillsId">
         Skills
@@ -20,10 +20,10 @@ function Skills() {
           fontFamily: "Alegreya SC",
         }}
       >
-        <li>REACT JS </li>
-        <li>REACT NATIVE</li>
         <li>JAVASCRIPT</li>
         <li>TYPESCRIPT</li>
+        <li>REACT JS </li>
+        <li>REACT NATIVE</li>
         <li>Next JS</li>
         <li>Redux</li>
         <li>Express JS</li>
@@ -40,7 +40,7 @@ function Skills() {
       <Blob position={"top-[55%] left-[40%] rotate-90"} />
       <img
         src={MonkeyImage}
-        className="absolute top-[40%] left-[80%] md:block hidden "
+        className="absolute top-[40%] left-[70%] lg:block hidden "
       />
     </div>
   );

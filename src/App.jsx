@@ -1,3 +1,5 @@
+import { Toaster } from "react-hot-toast";
+
 import Navbar from "./components/Navbar";
 
 import About from "./components/About";
@@ -13,6 +15,7 @@ const App = () => {
       <Skills />
       <Projects />
       <Contact />
+      <Toaster />
     </div>
   );
 };
