@@ -2,7 +2,7 @@ import React from "react";
 import SubHeader from "./SubHeader";
 
 import { FrameOne } from "../assets/svg";
-import CowImage from "../assets/images/cow.png";
+import PenImage from "../assets/images/pen.png";
 import Blob from "./Blob";
 
 function About() {
@@ -20,7 +20,7 @@ function About() {
           className="absolute sm:inset-x-16 inset-x-8 inset-y-5 flex flex-col items-center overflow-auto"
           id="aboutId"
         >
-          <img src={CowImage} className="w-[15%] h-auto" />
+          <img src={PenImage} className="w-[15%] h-auto" />
           <span
             className="text-center lg:text-4xl md:text-2xl sm:text-lg text-sm font-extrabold mt-auto mb-auto md:leading-normal leading-[1]"
             style={{
