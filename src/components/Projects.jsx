@@ -24,6 +24,16 @@ const items = [
       "React Native, Redux, Typescript, reanimated, expo-notifications, expo-linking sentry and Jest",
   },
   {
+    name: "assets 360",
+    details:
+      "This is a sample of a project that I have completed for a client. The 360 Image Stitcher is a powerful app that allows users to create immersive 360-degree images using their mobile device's camera and motion sensors.",
+    image: Assets360Image,
+    site: "https://getassets360.onrender.com/",
+    showCode: false,
+    showSite: true,
+    techStack: "React, tailwindcss, express, open-cv and python",
+  },
+  {
     name: "Gee2",
     details:
       "A transportation mobile app that enables passengers to request rides while providing drivers with the ability to receive payments. It is mainly used In Enugu State of Nigeria.",
@@ -43,16 +53,7 @@ const items = [
     showSite: true,
     techStack: "React Native, Redux, Typescript, reanimated and Jest",
   },
-  {
-    name: "assets 360",
-    details:
-      "This is a sample of a project that I have completed for a client. The 360 Image Stitcher is a powerful app that allows users to create immersive 360-degree images using their mobile device's camera and motion sensors.",
-    image: Assets360Image,
-    site: "https://getassets360.onrender.com/",
-    showCode: false,
-    showSite: true,
-    techStack: "React, tailwindcss, express, open-cv and python",
-  },
+
   {
     name: "Smart box",
     details: "React app that uses AI to detect faces and apparels in an image.",
