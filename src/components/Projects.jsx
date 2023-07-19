@@ -33,17 +33,17 @@ const items = [
     showSite: true,
     techStack: "React, tailwindcss, express, open-cv and python",
   },
-  {
-    name: "Gee2",
-    details:
-      "A transportation mobile app that enables passengers to request rides while providing drivers with the ability to receive payments. It is mainly used In Enugu State of Nigeria.",
-    image: Gee2Image,
-    site: "https://gee2rides.com/",
-    showCode: false,
-    showSite: true,
-    techStack:
-      "React Native, Redux, Typescript, reanimated + moti, Google maps and Jest",
-  },
+  // {
+  //   name: "Gee2",
+  //   details:
+  //     "A transportation mobile app that enables passengers to request rides while providing drivers with the ability to receive payments. It is mainly used In Enugu State of Nigeria.",
+  //   image: Gee2Image,
+  //   site: "https://gee2rides.com/",
+  //   showCode: false,
+  //   showSite: true,
+  //   techStack:
+  //     "React Native, Redux, Typescript, reanimated + moti, Google maps and Jest",
+  // },
   {
     name: "Etijar",
     details: "A fintech mobile application for keeping track of loans",
