@@ -1,10 +1,8 @@
+![Header](https://res.cloudinary.com/dv2csuzek/image/upload/v1695148159/github_banner_zvfoxj.png)
 <h1 align="center">Hi 👋, I'm Abdullah Gumi</h1>
-<h3 align="center">Dedicated React developer hailing from Nigeria</h3>
 
-Highly motivated and experienced React | React Native
-Developer with a strong work ethic focused on delivering value
-and gaining industry knowledge. Proficient in Frontend and
-Backend development utilizing technologies such as React,
+A 24 years old Fullstack Developer with 4 years of professional experience. Proficient in Frontend and
+Backend development utilizing technologies such as React, React Native,
 Node, and TypeScript.
 <br/>
 <br/>
@@ -19,13 +17,7 @@ You can read more about it [here](https://github.com/AbdullahGumi/assets360-intr
 
 - 🌱 I’m currently playing with **GO**
 
-- 👨‍💻 All of my projects are available at My [portfolio](https://abdullahgumi.vercel.app/)
-
-- 💬 Ask me about **react, react native**
-
-- 📫 How to reach me **abdulgumi77@gmail.com**
-
-- 📄 Check out my [resume](https://drive.google.com/file/d/1isgVRHgQfFNlR0PMAkYDfZStEFx4FIFO/view?usp=sharing)
+- 👨‍💻 All of my projects are available [here](https://abdullahgumi.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
