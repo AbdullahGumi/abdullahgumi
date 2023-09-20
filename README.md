@@ -1,7 +1,7 @@
 ![Header](https://res.cloudinary.com/dv2csuzek/image/upload/v1695148159/github_banner_zvfoxj.png)
 <h1 align="center">Hi 👋, I'm Abdullah Gumi</h1>
 
-A 24 years old Fullstack Developer with 4 years of professional experience. Proficient in Frontend and
+A 24 years old Fullstack Developer with 5 years of professional experience. Proficient in Frontend and
 Backend development utilizing technologies such as React, React Native,
 Node, and TypeScript.
 <br/>
