@@ -1,6 +1,4 @@
-<!-- ![Header](https://res.cloudinary.com/dv2csuzek/image/upload/v1695148159/github_banner_zvfoxj.png) -->
-<!-- ![Header](https://res.cloudinary.com/dv2csuzek/image/upload/v1695373144/Frame_xkpvhr.png) -->
-![Header](https://res.cloudinary.com/dv2csuzek/image/upload/v1695376219/Frame_3-min_xz1bt3.png)
+  ![Header](https://res.cloudinary.com/dv2csuzek/image/upload/v1695148159/github_banner_zvfoxj.png)  
 
 <h1 align="center">Hi 👋, I'm Abdullah Gumi</h1>
 
