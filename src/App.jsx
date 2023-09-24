@@ -11,8 +11,8 @@ const App = () => {
   return (
     <div className=" app-container flex-1 w-full items-center flex flex-col">
       <Navbar />
-      {/* <About />
-      <Skills />
+      <About />
+      {/* <Skills />
       <Projects />
       <Contact />
       <Toaster /> */}
