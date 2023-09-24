@@ -10,6 +10,12 @@ import Assets360Image from "../assets/images/assets360.png";
 import EtijarImage from "../assets/images/etijar.png";
 import Gee2Image from "../assets/images/gee2.png";
 import SmartboxImage from "../assets/images/smartbox.png";
+import {
+  MintplexImage,
+  ApertureImage,
+  GymImage,
+  CovidImage,
+} from "../assets/images";
 
 const items = [
   {
@@ -23,15 +29,52 @@ const items = [
     techStack:
       "React Native, Redux, Typescript, reanimated, expo-notifications, expo-linking sentry and Jest",
   },
+  // {
+  //   name: "assets 360",
+  //   details:
+  //     "This is a sample of a project that I have completed for a client. The 360 Image Stitcher is a powerful app that allows users to create immersive 360-degree images using their mobile device's camera and motion sensors.",
+  //   image: Assets360Image,
+  //   site: "https://getassets360.onrender.com/",
+  //   showCode: false,
+  //   showSite: true,
+  //   techStack: "React, tailwindcss, express, open-cv and python",
+  // },
   {
-    name: "assets 360",
+    name: "Mintplex",
     details:
-      "This is a sample of a project that I have completed for a client. The 360 Image Stitcher is a powerful app that allows users to create immersive 360-degree images using their mobile device's camera and motion sensors.",
-    image: Assets360Image,
-    site: "https://getassets360.onrender.com/",
+      "Mintplex is a platform designed to empower NFT creators with an innovative approach to minting and managing their digital assets.",
+    image: MintplexImage,
+    site: "https://mintplex.xyz/",
     showCode: false,
     showSite: true,
-    techStack: "React, tailwindcss, express, open-cv and python",
+    techStack: "React & tailwindcss ",
+  },
+  {
+    name: "Aperture",
+    details: "A Cross-chain Investment Solution",
+    image: ApertureImage,
+    site: "https://aperture-ecru.vercel.app/",
+    showCode: false,
+    showSite: true,
+    techStack: "React & MUI",
+  },
+  {
+    name: "Covid Tracker",
+    details: "A react app to visualize covid stats",
+    image: CovidImage,
+    site: "https://covid-tracker-gilt-seven.vercel.app/",
+    showCode: false,
+    showSite: true,
+    techStack: "React & MUI",
+  },
+  {
+    name: "Evolve Fitness",
+    details: "A sample site designed for a client",
+    image: GymImage,
+    site: "https://material-fitness.vercel.app/",
+    showCode: false,
+    showSite: true,
+    techStack: "React & MUI",
   },
   {
     name: "Gee2",

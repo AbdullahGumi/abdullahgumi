@@ -3,3 +3,7 @@ export const AZAImage = import.meta.resolve("./aza.png");
 export const EtijarImage = import.meta.resolve("./etijar.png");
 export const Gee2Image = import.meta.resolve("./gee2.png");
 export const Assets360Image = import.meta.resolve("./assets360.png");
+export const MintplexImage = import.meta.resolve("./mintplex.png");
+export const ApertureImage = import.meta.resolve("./aper.png");
+export const GymImage = import.meta.resolve("./gym.png");
+export const CovidImage = import.meta.resolve("./covid.png");

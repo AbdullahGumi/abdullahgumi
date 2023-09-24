@@ -24,6 +24,7 @@ function Skills() {
         <li>TYPESCRIPT</li>
         <li>REACT JS </li>
         <li>REACT NATIVE</li>
+        <li>Webflow</li>
         <li>Next JS</li>
         <li>Redux</li>
         <li>Express JS</li>
