@@ -5,18 +5,6 @@ import SubHeader from "./SubHeader";
 
 import Project from "./Project";
 
-import {
-  MintplexImage,
-  ApertureImage,
-  GymImage,
-  CovidImage,
-  AZAImage,
-  Assets360Image,
-  EtijarImage,
-  Gee2Image,
-  SmartboxImage,
-} from "../assets/images";
-
 const items = [
   {
     name: "AZA",

@@ -1,9 +1,0 @@
-export const SmartboxImage = import.meta.resolve("./smartbox.jpg");
-export const AZAImage = import.meta.resolve("./aza.jpg");
-export const EtijarImage = import.meta.resolve("./etijar.jpg");
-export const Gee2Image = import.meta.resolve("./gee2.jpg");
-export const Assets360Image = import.meta.resolve("./assets360.jpg");
-export const MintplexImage = import.meta.resolve("./mintplex.jpg");
-export const ApertureImage = import.meta.resolve("./aper.jpg");
-export const GymImage = import.meta.resolve("./gym.jpg");
-export const CovidImage = import.meta.resolve("./covid.jpg");
