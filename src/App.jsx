@@ -11,11 +11,11 @@ const App = () => {
   return (
     <div className=" app-container flex-1 w-full items-center flex flex-col">
       <Navbar />
-      <About />
+      {/* <About />
       <Skills />
       <Projects />
       <Contact />
-      <Toaster />
+      <Toaster /> */}
     </div>
   );
 };
