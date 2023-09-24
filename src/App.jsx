@@ -12,8 +12,8 @@ const App = () => {
     <div className=" app-container flex-1 w-full items-center flex flex-col">
       <Navbar />
       <About />
-      {/* <Skills />
-      <Projects />
+      <Skills />
+      {/* <Projects />
       <Contact />
       <Toaster /> */}
     </div>
