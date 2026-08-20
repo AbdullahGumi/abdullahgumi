@@ -19,7 +19,6 @@ I enjoy turning ideas into reliable products — from architecture and developme
 * 📱 Built and lead the engineering behind KEKE GO's mobile apps and backend infrastructure
 * 👥 KEKE GO has **15,000+ users**
 * 🚕 **6,000+ completed rides**
-* ⚡ Experienced in real-time, location-based, payment, and scalable backend systems
 * 🌱 Currently building and scaling products with **Go, React, React Native, Next.js, and Node.js**
 
 ### 🛠️ Technologies
