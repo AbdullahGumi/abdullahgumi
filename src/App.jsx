@@ -56,7 +56,17 @@ const App = () => {
           <h2>Selected work</h2>
           <div className="project">
             <div>
-              <h3>KEKE GO</h3>
+              <h3>
+                <a
+                  href="https://kekego.ng"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{ textDecoration: "none" }}
+                  className="hover:underline"
+                >
+                  KEKE GO <span style={{ fontSize: "16px", color: "#888" }}>↗</span>
+                </a>
+              </h3>
               <p>
                 Ride-hailing platform for tricycles. Built the mobile apps,
                 backend, real-time tracking, payments, databases, APIs, and
