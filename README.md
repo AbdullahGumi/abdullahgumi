@@ -39,20 +39,6 @@ PostgreSQL · Redis · MongoDB · Prisma
 
 Docker · AWS · Linux · Vercel · Git · GitHub · Jest 
 
-### 📌 Featured Project
-
-**[KEKE GO](https://kekego.ng)**
-
-A ride-hailing platform built for tricycle transportation. I lead the technical development across the mobile applications, backend architecture, real-time location tracking, payments, databases, APIs, and infrastructure.
-
-### 📊 KEKE GO
-
-|             |                 |
-| ----------- | --------------- |
-| **15,000+** | Users           |
-| **6,000+**  | Completed rides |
-| **2026**    | Launched        |
-
 ### 🤝 Connect With Me
 
 <p align="left">
